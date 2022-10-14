@@ -135,9 +135,9 @@ export default function Home(props) {
               </div>
             </a>
 
-            <div className="footer-dev">
+            <a className="footer-dev" href={"https://github.com/tavaresmatheusz"}>
               <Image src={"/matheus.png"} alt={"CarDex Logo"} width={139} height={54}/>
-            </div>
+            </a>
           </div>
 
         </div>
